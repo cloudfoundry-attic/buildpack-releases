@@ -1,0 +1,5 @@
+---
+builds:
+  0a40bb52-dac9-473c-844f-80d4ca948ade:
+    version: 1.5.4
+format-version: '2'

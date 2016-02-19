@@ -1,6 +1,7 @@
 ---
 name: php-buildpack
-templates: {}
+templates:
+  dummy: dummy
 
 packages:
 - php-buildpack

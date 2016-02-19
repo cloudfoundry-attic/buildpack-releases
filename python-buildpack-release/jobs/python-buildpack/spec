@@ -1,6 +1,7 @@
 ---
 name: python-buildpack
-templates: {}
+templates:
+  dummy: dummy
 
 packages:
 - python-buildpack

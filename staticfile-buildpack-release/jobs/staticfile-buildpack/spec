@@ -1,6 +1,7 @@
 ---
 name: staticfile-buildpack
-templates: {}
+templates:
+  dummy: dummy
 
 packages:
 - staticfile-buildpack

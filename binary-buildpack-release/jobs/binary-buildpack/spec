@@ -1,6 +1,7 @@
 ---
 name: binary-buildpack
-templates: {}
+templates:
+  dummy: dummy
 
 packages:
 - binary-buildpack

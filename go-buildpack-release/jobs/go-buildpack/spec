@@ -1,6 +1,7 @@
 ---
 name: go-buildpack
-templates: {}
+templates:
+  dummy: dummy
 
 packages:
 - go-buildpack

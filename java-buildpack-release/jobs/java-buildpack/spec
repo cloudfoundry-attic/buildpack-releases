@@ -1,0 +1,9 @@
+---
+name: java-buildpack
+templates:
+  dummy: dummy
+
+packages:
+- go-buildpack
+
+properties: {}

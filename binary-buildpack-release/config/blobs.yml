@@ -1,1 +1,5 @@
---- {}
+---
+binary-buildpack/binary_buildpack-cached-v1.0.1.zip:
+  object_id: e3fdcc0c-6cb4-4a0c-8958-1c15a3874766
+  sha: 3e62e3882495cf16686078e7209bf28d3f9d60f5
+  size: 8487

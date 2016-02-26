@@ -1,4 +1,4 @@
 ---
-name: java-buildpack
+name: buildpack_java
 files:
 - java-buildpack/java-buildpack*.zip

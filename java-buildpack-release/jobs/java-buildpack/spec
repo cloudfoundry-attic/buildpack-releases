@@ -4,6 +4,6 @@ templates:
   dummy: dummy
 
 packages:
-- go-buildpack
+- buildpack_java
 
 properties: {}

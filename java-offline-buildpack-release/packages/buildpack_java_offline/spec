@@ -1,0 +1,4 @@
+---
+name: buildpack_java_offline
+files:
+- java-buildpack/java-buildpack-offline*.zip

@@ -2,4 +2,6 @@
 builds:
   77668b11-bcd9-4877-9ee1-b843e29d8c4f:
     version: 1.7.2
+  177201c8-5c8e-43b3-9d3a-5998b4336eab:
+    version: 1.7.3
 format-version: '2'

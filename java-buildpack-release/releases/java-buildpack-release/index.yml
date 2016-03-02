@@ -1,0 +1,5 @@
+---
+builds:
+  366ca75e-4e1d-46e1-a60b-a34ce0029dd7:
+    version: '3.6'
+format-version: '2'

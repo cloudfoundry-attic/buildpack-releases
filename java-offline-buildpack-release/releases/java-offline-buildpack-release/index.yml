@@ -1,0 +1,5 @@
+---
+builds:
+  cac9e122-dca2-40ac-b8d4-bcaadd01b014:
+    version: '3.6'
+format-version: '2'

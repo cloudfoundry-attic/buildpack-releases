@@ -4,4 +4,6 @@ builds:
     version: 1.5.5
   493a69f8-4023-4087-b229-7bcef87eceb9:
     version: 1.5.6
+  88026098-1881-4848-966b-172dffbe0b15:
+    version: 1.5.7
 format-version: '2'

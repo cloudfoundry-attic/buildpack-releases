@@ -6,4 +6,6 @@ builds:
     version: 4.3.5
   4bbcb342-c175-4f9d-b785-dc6c780cac74:
     version: 4.3.6
+  6d38f137-235d-4d27-9803-1afd50b78717:
+    version: 4.3.7
 format-version: '2'

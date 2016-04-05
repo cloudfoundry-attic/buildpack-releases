@@ -10,4 +10,6 @@ builds:
     version: 1.5.8
   5ce708f6-b768-447b-99f3-708779f66bdf:
     version: 1.5.9
+  1799212d-1eba-4438-8886-7fbc7d1eb80f:
+    version: 1.5.10
 format-version: '2'

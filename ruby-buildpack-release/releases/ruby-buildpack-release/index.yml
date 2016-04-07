@@ -4,4 +4,6 @@ builds:
     version: 1.6.13
   f181d1b5-ff72-4bec-a19c-5b5778ae3de5:
     version: 1.6.14
+  da08c8eb-7838-4a37-8fab-ca9bea5a1a6b:
+    version: 1.6.15
 format-version: '2'

@@ -12,4 +12,6 @@ builds:
     version: 1.5.9
   1799212d-1eba-4438-8886-7fbc7d1eb80f:
     version: 1.5.10
+  8db9cd54-e500-44e0-867b-ae146a4d3ee8:
+    version: 1.5.11
 format-version: '2'

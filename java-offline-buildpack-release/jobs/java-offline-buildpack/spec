@@ -1,7 +1,6 @@
 ---
 name: java-offline-buildpack
-templates:
-  dummy: dummy
+templates: {}
 
 packages:
 - buildpack_java_offline

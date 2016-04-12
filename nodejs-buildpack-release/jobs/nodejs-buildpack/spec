@@ -1,7 +1,6 @@
 ---
 name: nodejs-buildpack
-templates:
-  dummy: dummy
+templates: {}
 
 packages:
 - nodejs-buildpack

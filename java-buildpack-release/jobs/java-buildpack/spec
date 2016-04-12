@@ -1,7 +1,6 @@
 ---
 name: java-buildpack
-templates:
-  dummy: dummy
+templates: {}
 
 packages:
 - buildpack_java

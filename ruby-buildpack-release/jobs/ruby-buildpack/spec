@@ -1,7 +1,6 @@
 ---
 name: ruby-buildpack
-templates:
-  dummy: dummy
+templates: {}
 
 packages:
 - ruby-buildpack

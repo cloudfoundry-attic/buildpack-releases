@@ -14,4 +14,6 @@ builds:
     version: 1.5.10
   8db9cd54-e500-44e0-867b-ae146a4d3ee8:
     version: 1.5.11
+  1242fc10-e588-410c-a8bb-12a96e7a37cb:
+    version: 1.5.12
 format-version: '2'

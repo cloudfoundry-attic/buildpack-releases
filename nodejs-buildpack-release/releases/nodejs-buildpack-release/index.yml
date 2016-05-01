@@ -16,4 +16,6 @@ builds:
     version: 1.5.11
   1242fc10-e588-410c-a8bb-12a96e7a37cb:
     version: 1.5.12
+  9fb24fa0-a60d-4722-86cc-cd056c6c9679:
+    version: 1.5.13
 format-version: '2'

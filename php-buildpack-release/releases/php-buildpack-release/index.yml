@@ -14,4 +14,6 @@ builds:
     version: 4.3.9
   a087376b-7efe-4da9-ad28-29acb3a69378:
     version: 4.3.10
+  f71678c2-eb62-4121-87fe-b00101541fe2:
+    version: 4.3.11
 format-version: '2'

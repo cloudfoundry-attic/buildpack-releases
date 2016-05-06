@@ -18,4 +18,6 @@ builds:
     version: 1.5.12
   9fb24fa0-a60d-4722-86cc-cd056c6c9679:
     version: 1.5.13
+  08107f82-5345-46b2-9a57-fa8ad4aae47b:
+    version: 1.5.14
 format-version: '2'

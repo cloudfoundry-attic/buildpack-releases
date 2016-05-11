@@ -12,4 +12,6 @@ builds:
     version: 1.7.6
   1ac465f2-7156-4371-8ead-142b8184121f:
     version: 1.7.7
+  de768e98-9c96-4321-95f4-a148e78cbe9a:
+    version: 1.7.8
 format-version: '2'

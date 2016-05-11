@@ -14,4 +14,6 @@ builds:
     version: 1.3.6
   7ddb4e44-2d42-428a-895f-2b2385646753:
     version: 1.3.7
+  0cef3086-780f-44fb-8181-a30d8a2feb55:
+    version: 1.3.8
 format-version: '2'

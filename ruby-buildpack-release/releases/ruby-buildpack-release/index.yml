@@ -10,4 +10,6 @@ builds:
     version: 1.6.16
   29708c5d-3ec3-4f23-aa2a-1570f3ff5299:
     version: 1.6.17
+  d3585c8a-13b2-492a-aab1-75fcbf6c290f:
+    version: 1.6.18
 format-version: '2'

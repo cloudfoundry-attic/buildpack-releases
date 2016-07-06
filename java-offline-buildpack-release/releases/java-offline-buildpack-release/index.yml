@@ -6,4 +6,6 @@ builds:
     version: '3.7'
   d228ff27-b07d-43a8-a2c2-9c3c631b8e3b:
     version: 3.7.1
+  d37961e5-c0d1-4216-b23e-734d0b282144:
+    version: '3.8'
 format-version: '2'

@@ -1,5 +1,5 @@
 ---
-java-buildpack/java-buildpack-offline-v3.8.zip:
-  object_id: 531aecf0-e48c-43aa-9d9d-da9a60ace5c5
-  sha: ce92663e99fcd1a9fa849aa5c37bfc313f8fdb5f
-  size: 256004786
+java-buildpack/java-buildpack-offline-v3.8.1.zip:
+  object_id: 5f41c48c-dc36-48fc-a883-0b482c180546
+  sha: 31a7d013223e75ea8c6aab5f26d2fdf20abe66cc
+  size: 258001510

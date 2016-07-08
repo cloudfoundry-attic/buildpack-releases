@@ -8,4 +8,6 @@ builds:
     version: 3.7.1
   d37961e5-c0d1-4216-b23e-734d0b282144:
     version: '3.8'
+  dfe7cbfd-bb8b-4134-81a2-ac3933d4b498:
+    version: 3.8.1
 format-version: '2'

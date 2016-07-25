@@ -16,4 +16,6 @@ builds:
     version: 1.7.8
   9105e19d-ab8d-4604-b4c0-280ffc4a6050:
     version: 1.7.9
+  bf3e983a-2429-440c-94cd-0fa847c94738:
+    version: 1.7.10
 format-version: '2'

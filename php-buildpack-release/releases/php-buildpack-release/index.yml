@@ -28,4 +28,6 @@ builds:
     version: 4.3.17
   3a92e0e1-27af-4a76-bddc-200d2f4acd7a:
     version: 4.3.18
+  23141a12-a4ca-449a-b36d-208873156e59:
+    version: 4.3.19
 format-version: '2'

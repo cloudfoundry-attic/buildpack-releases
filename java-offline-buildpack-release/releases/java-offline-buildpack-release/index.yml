@@ -10,4 +10,6 @@ builds:
     version: '3.8'
   dfe7cbfd-bb8b-4134-81a2-ac3933d4b498:
     version: 3.8.1
+  00a4feae-bdb1-4beb-98ba-d1dd654719d1:
+    version: '3.9'
 format-version: '2'

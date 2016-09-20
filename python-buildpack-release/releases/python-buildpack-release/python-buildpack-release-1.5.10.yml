@@ -1,0 +1,20 @@
+---
+packages:
+- name: python-buildpack
+  version: 74ea078a8e7084f686cc9c0b16316003cf214890
+  fingerprint: 74ea078a8e7084f686cc9c0b16316003cf214890
+  sha1: 27383931814a755f73b3b0bbb48551bb25883369
+  dependencies: []
+jobs:
+- name: python-buildpack
+  version: c3ebd738c93c1dba9274c435022da84377f23639
+  fingerprint: c3ebd738c93c1dba9274c435022da84377f23639
+  sha1: 428d8d39ed0f074379e98c821e6fcde7082549ce
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: 75d7ea0232f7de24174526850e7db898a6d86bd4
+commit_hash: 274a8861
+uncommitted_changes: true
+name: python-buildpack-release
+version: 1.5.10

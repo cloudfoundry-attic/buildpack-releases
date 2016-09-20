@@ -20,4 +20,6 @@ builds:
     version: 1.3.9
   9d52fe76-a91a-4a8b-b598-d5ba5a500378:
     version: 1.3.10
+  4efbf7c1-3275-4463-bad1-00217d82ab09:
+    version: 1.3.11
 format-version: '2'

@@ -24,4 +24,6 @@ builds:
     version: 1.6.23
   4d8f7d50-69c7-40c0-8043-f8b8f5f8cc71:
     version: 1.6.24
+  cc557f43-3a1d-49ea-acba-1158114fa399:
+    version: 1.6.25
 format-version: '2'

@@ -1,0 +1,20 @@
+---
+packages:
+- name: ruby-buildpack
+  version: 4c7c98da755f37ce688ceb8c851ec2681ab16471
+  fingerprint: 4c7c98da755f37ce688ceb8c851ec2681ab16471
+  sha1: 060c65ddd740f4b03fa9ef5c626d365dae263aa6
+  dependencies: []
+jobs:
+- name: ruby-buildpack
+  version: 5c7e00c6e3deacb08ee95798a9194055bedbf246
+  fingerprint: 5c7e00c6e3deacb08ee95798a9194055bedbf246
+  sha1: 9fcd8b87dde102a86d1e924f6da9078ac365af69
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: a58ad612a9100e309f2a5f0eb53ef84790d20535
+commit_hash: 4ae722bb
+uncommitted_changes: true
+name: ruby-buildpack-release
+version: 1.6.26

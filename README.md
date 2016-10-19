@@ -8,7 +8,6 @@ This repo contains all the BOSH releases for all Cloud Foundry buildpacks. This 
 - https://github.com/cloudfoundry/python-buildpack-release
 - https://github.com/cloudfoundry/php-buildpack-release
 - https://github.com/cloudfoundry/nodejs-buildpack-release
-- https://github.com/cloudfoundry/staticfile-buildpack-release
 - https://github.com/cloudfoundry/binary-buildpack-release
 - https://github.com/cloudfoundry/java-offline-buildpack-release
 - https://github.com/cloudfoundry/java-buildpack-release

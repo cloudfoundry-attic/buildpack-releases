@@ -1,0 +1,20 @@
+---
+packages:
+- name: buildpack_java_offline
+  version: dd9a73748e9e34bd5f30b5f19d4dbd61b718d749
+  fingerprint: dd9a73748e9e34bd5f30b5f19d4dbd61b718d749
+  sha1: 69ea6c487816137d9ba546eb1090baac060e310f
+  dependencies: []
+jobs:
+- name: java-offline-buildpack
+  version: baba85203f19cb43788847dc5b06f4cb594e63fe
+  fingerprint: baba85203f19cb43788847dc5b06f4cb594e63fe
+  sha1: d6c99d83906e5ca95bcce4dbeb7b6a227e431394
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: 7d6bd6dcc82c656e700e837cc5b21a29318ead02
+commit_hash: af6b3896
+uncommitted_changes: true
+name: java-offline-buildpack
+version: '3.10'

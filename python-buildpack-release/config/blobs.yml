@@ -1,5 +1,5 @@
 ---
-python-buildpack/python_buildpack-cached-v1.5.11.zip:
-  object_id: b6e653f6-3b43-440f-a7ff-c1c0398be9a8
-  sha: 83c8f4baeb8dbd0134c4b344994092460d37c5f6
-  size: 267716020
+python-buildpack/python_buildpack-cached-v1.5.10.zip:
+  object_id: 493725b7-51ee-42e2-92fb-3c740b044c70
+  sha: 7c1a54fc9165ff695115cef84db6adcd530f255b
+  size: 267715948

@@ -24,4 +24,6 @@ builds:
     version: 1.7.12
   b52b62b2-1079-4835-9739-ac1b05a392bf:
     version: 1.7.13
+  4ed331e2-ef06-47eb-b2d1-f23899387fa6:
+    version: 1.7.14
 format-version: '2'

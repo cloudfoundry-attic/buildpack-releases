@@ -32,6 +32,4 @@ builds:
     version: 4.3.19
   c747df18-337c-4407-86db-eaba6799e8ea:
     version: 4.3.20
-  be90a09b-f096-4c11-8417-3ef63241a80b:
-    version: 4.3.21
 format-version: '2'

@@ -1,5 +1,5 @@
 ---
-php-buildpack/php_buildpack-cached-v4.3.20.zip:
-  object_id: 4b04a15d-ce52-4607-ba42-349ee500fb19
-  sha: e3f54c3a2bec60cefb9d88f9cd2d05c8e496868c
-  size: 320504242
+php-buildpack/php_buildpack-cached-v4.3.21.zip:
+  object_id: a0602445-0ab4-45a7-97f6-0fdd1b41f199
+  sha: a0778884e5dc07f8cdfebdaf4975d5970b990f74
+  size: 322953560

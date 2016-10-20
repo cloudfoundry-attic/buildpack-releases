@@ -1,0 +1,5 @@
+---
+builds:
+  80321f42-9c9c-401c-8fb3-67e3cdec8ba1:
+    version: 1.5.22
+format-version: '2'

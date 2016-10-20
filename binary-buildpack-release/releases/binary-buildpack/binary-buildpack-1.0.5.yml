@@ -1,0 +1,20 @@
+---
+packages:
+- name: binary-buildpack
+  version: be1e800f84b0048babd1d501b2b0e75abc776839
+  fingerprint: be1e800f84b0048babd1d501b2b0e75abc776839
+  sha1: 312d6ff12936ce48875da16413f9c7ebe2967bed
+  dependencies: []
+jobs:
+- name: binary-buildpack
+  version: e2753ad7c384717801a27475b99bdea16669685d
+  fingerprint: e2753ad7c384717801a27475b99bdea16669685d
+  sha1: dc4a2f009dfa95282a201e5d67869d14e8dc71a5
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: cdaf46fecff05021b239eaccc20856577c7998f0
+commit_hash: 3673e396
+uncommitted_changes: true
+name: binary-buildpack
+version: 1.0.5

@@ -28,4 +28,6 @@ builds:
     version: 1.6.25
   d1c0cdbc-fc9b-4411-bd18-d1ab75cc5e63:
     version: 1.6.26
+  d274e1d2-4d90-4e69-9e89-6c6bc2a85998:
+    version: 1.6.27
 format-version: '2'

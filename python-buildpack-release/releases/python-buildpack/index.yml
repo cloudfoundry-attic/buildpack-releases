@@ -2,4 +2,6 @@
 builds:
   6eed2f72-190a-4ccd-9dbd-c0ec9d2b560a:
     version: 1.5.11
+  f66bc974-217e-4335-b4cf-322c8cff9e3c:
+    version: 1.5.12
 format-version: '2'

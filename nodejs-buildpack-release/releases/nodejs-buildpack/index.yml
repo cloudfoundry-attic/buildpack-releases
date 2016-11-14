@@ -2,4 +2,6 @@
 builds:
   80321f42-9c9c-401c-8fb3-67e3cdec8ba1:
     version: 1.5.22
+  2726dd01-4bdd-4da8-bc90-4c63327f7aae:
+    version: 1.5.23
 format-version: '2'

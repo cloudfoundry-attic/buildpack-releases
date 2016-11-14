@@ -1,0 +1,20 @@
+---
+packages:
+- name: go-buildpack
+  version: 642fdd313674232f0ede59f83b3408912dcf9ee9
+  fingerprint: 642fdd313674232f0ede59f83b3408912dcf9ee9
+  sha1: 8a2f5bb5447ca5e28c397dc3cf453e42b3a62020
+  dependencies: []
+jobs:
+- name: go-buildpack
+  version: 6a96c195d72160f64d4624612c235fe0142f0a42
+  fingerprint: 6a96c195d72160f64d4624612c235fe0142f0a42
+  sha1: d8df0df01570e5530221a74b3e59336b64bc8c3d
+license:
+  version: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  fingerprint: e6c4ccc65c76e75e2338d1edabdcf264d37ee663
+  sha1: b62df5753519512a1b701ddaee91f33870ceba68
+commit_hash: 39a659b3
+uncommitted_changes: true
+name: go-buildpack
+version: 1.7.15

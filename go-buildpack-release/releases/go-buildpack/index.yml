@@ -2,4 +2,6 @@
 builds:
   3fec77cb-fbad-471f-a0f6-00ea55e4578b:
     version: 1.7.14
+  0730c7ea-298e-4210-93e5-df75f85bc71b:
+    version: 1.7.15
 format-version: '2'

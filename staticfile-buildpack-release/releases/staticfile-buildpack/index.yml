@@ -2,4 +2,6 @@
 builds:
   8f356b3e-d2dd-4f5d-b438-6c5a35a20626:
     version: 1.3.12
+  30e93a0a-6107-4315-8c5f-50048666dd1f:
+    version: 1.3.13
 format-version: '2'

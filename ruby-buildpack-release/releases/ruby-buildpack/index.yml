@@ -2,4 +2,6 @@
 builds:
   99d7dc53-e18b-4ca1-a083-419b35350599:
     version: 1.6.27
+  dc726b76-3ebb-4737-b8c7-c05794f296a7:
+    version: 1.6.28
 format-version: '2'

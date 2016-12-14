@@ -4,4 +4,6 @@ builds:
     version: 1.7.14
   0730c7ea-298e-4210-93e5-df75f85bc71b:
     version: 1.7.15
+  2e925ed3-fe82-4925-953b-7e85c6c57dd9:
+    version: 1.7.16
 format-version: '2'

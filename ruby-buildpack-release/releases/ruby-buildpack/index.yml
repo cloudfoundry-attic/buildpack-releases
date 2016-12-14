@@ -4,4 +4,6 @@ builds:
     version: 1.6.27
   dc726b76-3ebb-4737-b8c7-c05794f296a7:
     version: 1.6.28
+  6aa148e5-b6d5-4cea-9be6-1caf66ca2be4:
+    version: 1.6.29
 format-version: '2'

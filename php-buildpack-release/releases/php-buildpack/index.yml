@@ -6,4 +6,6 @@ builds:
     version: 4.3.22
   581ac844-577f-4939-a14f-4d1345b54048:
     version: 4.3.23
+  875d6e89-7f2a-4cba-8a73-a0055b017baf:
+    version: 4.3.24
 format-version: '2'

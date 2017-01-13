@@ -8,4 +8,6 @@ builds:
     version: 4.3.23
   875d6e89-7f2a-4cba-8a73-a0055b017baf:
     version: 4.3.24
+  004bca0a-450b-4fc9-ac08-f5b01a49d416:
+    version: 4.3.25
 format-version: '2'

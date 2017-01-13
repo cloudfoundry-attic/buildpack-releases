@@ -6,4 +6,6 @@ builds:
     version: 1.3.13
   c6595457-9015-4199-bac4-9b77d453e5da:
     version: 1.3.14
+  55e28802-0e40-4487-bb3e-d2ab7681288d:
+    version: 1.3.16
 format-version: '2'

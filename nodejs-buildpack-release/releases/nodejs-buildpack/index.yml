@@ -10,4 +10,6 @@ builds:
     version: 1.5.25
   a3f92424-f938-41e9-bdd1-0a1451fcbb9a:
     version: 1.5.27
+  1f6bcd27-fdaa-49b4-a775-dcf35381417c:
+    version: 1.5.29
 format-version: '2'

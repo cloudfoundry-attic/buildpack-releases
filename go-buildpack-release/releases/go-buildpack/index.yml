@@ -8,4 +8,6 @@ builds:
     version: 1.7.16
   66eb843a-e4dd-444e-8575-e716dd43a3fb:
     version: 1.7.17
+  a6f3b10e-a02d-48e8-b010-9fb9245a771d:
+    version: 1.7.18
 format-version: '2'

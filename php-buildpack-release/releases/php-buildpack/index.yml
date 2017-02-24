@@ -12,4 +12,6 @@ builds:
     version: 4.3.25
   9f4c458d-159d-4514-a6bc-cc8317ad069d:
     version: 4.3.26
+  e37d6a04-f3a5-412d-a36c-d16177d80876:
+    version: 4.3.27
 format-version: '2'

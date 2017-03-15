@@ -12,4 +12,6 @@ builds:
     version: 1.5.27
   1f6bcd27-fdaa-49b4-a775-dcf35381417c:
     version: 1.5.29
+  6f997797-000b-42d5-9d49-56b0413b5749:
+    version: 1.5.30
 format-version: '2'

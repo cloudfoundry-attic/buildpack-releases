@@ -16,4 +16,6 @@ builds:
     version: 4.3.27
   43047ada-340a-4d39-af6d-935b5f702b1e:
     version: 4.3.28
+  cd29b085-ff83-4755-b61e-3484d2cde3bc:
+    version: 4.3.29
 format-version: '2'

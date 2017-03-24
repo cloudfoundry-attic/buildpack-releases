@@ -10,4 +10,6 @@ builds:
     version: 1.0.9
   007fc801-ebcf-4425-93f1-045798fc87ab:
     version: 1.0.10
+  c32050fc-08b5-4b1a-a156-402fff656534:
+    version: 1.0.11
 format-version: '2'

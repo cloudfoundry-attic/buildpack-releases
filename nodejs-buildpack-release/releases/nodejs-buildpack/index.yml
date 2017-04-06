@@ -16,4 +16,6 @@ builds:
     version: 1.5.30
   dab1fc4f-f077-40db-a929-713b5101efbe:
     version: 1.5.31
+  bd02a9c1-1372-443d-927d-a5f44115fa19:
+    version: 1.5.32
 format-version: '2'
